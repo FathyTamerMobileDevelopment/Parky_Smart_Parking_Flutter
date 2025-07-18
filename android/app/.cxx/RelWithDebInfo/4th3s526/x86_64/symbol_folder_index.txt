@@ -1,0 +1,1 @@
+/Users/mostafa/projects/Parky/build/app/intermediates/cxx/RelWithDebInfo/4th3s526/obj/x86_64

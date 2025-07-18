@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093245125957",
+    "project_id": "parky-a7746",
+    "storage_bucket": "parky-a7746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093245125957:android:ec8369e3e23a3c62482a2c",
+        "android_client_info": {
+          "package_name": "com.example.parky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrVPdJnS0FCbexgRPAsRsAAZJmgUZQuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

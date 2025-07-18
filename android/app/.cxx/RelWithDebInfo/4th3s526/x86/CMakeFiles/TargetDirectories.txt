@@ -1,0 +1,2 @@
+/Users/mostafa/projects/Parky/android/app/.cxx/RelWithDebInfo/4th3s526/x86/CMakeFiles/edit_cache.dir
+/Users/mostafa/projects/Parky/android/app/.cxx/RelWithDebInfo/4th3s526/x86/CMakeFiles/rebuild_cache.dir
